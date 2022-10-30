@@ -1,4 +1,4 @@
-# Weather UA
+# SUSHI REACT
 
 ## Links
 - `Project` https://novosadinga.github.io/sushi-react/
