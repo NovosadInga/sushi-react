@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a23086a4.css",
-    "main.js": "/static/js/main.996fe3aa.js",
-    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/loading.svg": "/static/media/loading.73ce158aa2ac509c0b344128c3fb80ac.svg",
-    "static/media/sushi-logo.svg": "/static/media/sushi-logo.17913a29ca21404c6ca3593441e8eb58.svg",
-    "static/media/error.svg": "/static/media/error.617480fa95000854d9c229945ea73237.svg",
-    "static/media/search-ico.svg": "/static/media/search-ico.d30a4f77807c44b23473dae2ae29e0e6.svg",
-    "static/media/success.svg": "/static/media/success.803a7c64e5408ebc2302a946f6d43ea4.svg",
-    "index.html": "/index.html",
-    "main.a23086a4.css.map": "/static/css/main.a23086a4.css.map",
-    "main.996fe3aa.js.map": "/static/js/main.996fe3aa.js.map"
+    "main.css": "/sushi-react/static/css/main.a23086a4.css",
+    "main.js": "/sushi-react/static/js/main.8b782307.js",
+    "static/media/empty-cart.png": "/sushi-react/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/loading.svg": "/sushi-react/static/media/loading.85b050e34fda6b02e5744233303cf648.svg",
+    "static/media/sushi-logo.svg": "/sushi-react/static/media/sushi-logo.17913a29ca21404c6ca3593441e8eb58.svg",
+    "static/media/error.svg": "/sushi-react/static/media/error.617480fa95000854d9c229945ea73237.svg",
+    "static/media/search-ico.svg": "/sushi-react/static/media/search-ico.d30a4f77807c44b23473dae2ae29e0e6.svg",
+    "static/media/success.svg": "/sushi-react/static/media/success.803a7c64e5408ebc2302a946f6d43ea4.svg",
+    "index.html": "/sushi-react/index.html",
+    "main.a23086a4.css.map": "/sushi-react/static/css/main.a23086a4.css.map",
+    "main.8b782307.js.map": "/sushi-react/static/js/main.8b782307.js.map"
   },
   "entrypoints": [
     "static/css/main.a23086a4.css",
-    "static/js/main.996fe3aa.js"
+    "static/js/main.8b782307.js"
   ]
 }
