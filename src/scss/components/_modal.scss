@@ -1,0 +1,49 @@
+.modal {
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.7);
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	pointer-events: none;
+	transition: 0.3s opacity;
+
+	&.active {
+		opacity: 1;
+		pointer-events: auto;
+		transition: 0.3s opacity;
+
+		.modal__content {
+			opacity: 1;
+			transform: scale(1);
+			transition: 0.3s 0.2s all;
+		}
+	}
+
+	&__content {
+		padding: 20px;
+		border-radius: 10px;
+		background: #fff;
+		width: 400px;
+		transform: scale(0.5);
+		opacity: 0;
+		transition: 0.3s 0.1s all;
+		border: 2px solid $orange;
+		position: relative;
+		min-height: 300px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	&__close {
+		position: absolute;
+		right: 10px;
+		top: 10px;
+	}
+
+}
